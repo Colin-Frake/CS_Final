@@ -5,6 +5,7 @@ public class Student {
     private int id;
     private ArrayList<Double> grades;
 
+    //Each student has a unique name and Student ID
     public Student(String name, int id) {
         this.name = name;
         this.id = id;
