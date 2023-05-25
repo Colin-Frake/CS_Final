@@ -13,7 +13,7 @@ public class Main {
         bob.addGrade(80.0);
         bob.addGrade(88.0);
 
-        // Creating courses
+        // Creating courses and assigning students to courses
         Course math = new Course("Mathematics", "MATH101");
         math.addStudent(alice);
         math.addStudent(bob);

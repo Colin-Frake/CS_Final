@@ -1,0 +1,9 @@
+Student: Alice
+Average Grade: 90.0
+------------------------
+Student: Bob
+Average Grade: 81.0
+------------------------
+Average Grade for Student with ID 1: 90.0
+mhuang@HS-Student27686 CS_Final % 
+
