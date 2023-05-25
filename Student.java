@@ -12,14 +12,18 @@ public class Student {
         grades = new ArrayList<>();
     }
 
+    //Adds a grade to the student's list of grades
     public void addGrade(double grade) {
         grades.add(grade);
     }
 
+    //Calculates the average grade off all of the student's grades
     public double getAverageGrade() {
+        //checks if there are no grades for that student
         if (grades.size() == 0) {
             return 0.0;
         }
+        //Calculates average
         double total = 0.0;
         for (double grade : grades) {
             total += grade;
@@ -27,6 +31,7 @@ public class Student {
         return total / grades.size();
     }
 
+    //Getter methods
     public String getName() {
         return name;
     }
