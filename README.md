@@ -1,4 +1,40 @@
+/*************************************************************************
+*****
+* Name: Shrey Khetan and Melvin Huang
+*
+*************************************************************************
+*****/
+Final Project Name: Grade Nexus
+/*************************************************************************
+*****
+* Describe how decided to implement this project. Is it original? or a
+Spin-off
+It is a spin-off inspired by Powerschool. 
 
+*************************************************************************
+****/
+/*************************************************************************
+*****
+* Describe step by step how to execute your project successfully.
+* If multiple conditions result in different outputs, describe the steps
+* to achieve the different outcomes.
+
+*
+*************************************************************************
+*****/
+/*************************************************************************
+*****
+* Describe the data types you used to implement your project
+ArrayLists, doubles, Double, Strings, ints, booleans, Student, Course, 
+*
+*************************************************************************
+****/
+/*************************************************************************
+*****
+* Describe the methods used in your ADTs
+* 
+*************************************************************************
+****/
 /*************************************************************************
 *****
 * Describe the data needed for your project.
