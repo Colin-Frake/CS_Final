@@ -18,7 +18,9 @@ It is a spin-off inspired by Powerschool.
 * Describe step by step how to execute your project successfully.
 * If multiple conditions result in different outputs, describe the steps
 * to achieve the different outcomes.
-
+* First, you initialize objects of the Course, Student, and GradeTracker classes.
+* Then, you use the methods in each class to add as many students and courses as you want.
+* Then, the main driver prints out the results 
 *
 *************************************************************************
 *****/
